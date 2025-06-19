@@ -1,0 +1,13 @@
+SCREEN_WIDTH = 1920
+SCREEN_HEIGHT = 1080
+TILE_SIZE = 40
+GRID_WIDTH = SCREEN_WIDTH // TILE_SIZE
+GRID_HEIGHT = SCREEN_HEIGHT // TILE_SIZE
+FPS = 60
+
+# Temporary options for characters delete this later
+WHITE = (255, 255, 255)
+GRAY = (200, 200, 200)
+BLUE = (0, 0, 255)
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
